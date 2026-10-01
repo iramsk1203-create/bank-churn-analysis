@@ -5,7 +5,6 @@
 ## Business question
 A bank wants to understand which customers are leaving (churning), so it can target retention efforts. This project cleans a 10,000-customer dataset, analyses churn with SQL, and presents the results in a Power BI dashboard.
 
-![Dashboard](dashboard.png)
 
 ## Dataset
 - `BankChurn.csv`: 10,000 customers, 14 columns (credit score, country, gender, age, tenure, balance, number of products, credit card, active member, estimated salary, and `Exited`, where 1 means the customer left).
